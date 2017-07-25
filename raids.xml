@@ -18,6 +18,7 @@
 	<raid name="Vip1" file="Dybbuk/vip/Vip1.xml" interval2="1500" margin="80" />
 	<raid name="NatalDybbuk" file="Dybbuk/natalDybbuk.xml" interval2="1500" margin="80" />
 	<raid name="Reavers" file="Dybbuk/reavers.xml" interval2="1500" margin="80" />
+	<raid name="prueba1" file="Dybbuk/prueba1.xml" interval2="1500" margin="80" />
 
 	<!-- Special -->	
 	<raid name="Demodras" file="bosses/Demodras.xml" interval2="1440" margin="120" />
