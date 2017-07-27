@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+
+<announce delay="1000" type="event" message="!!!CUIDADO EN PORT HOPE!!!!" />
+<announce delay="10000" type="event" message="UNA OLEADA DE PANDAS SE ACERCAN />
+<announce delay="20000" type="event" message="EL GUERREIRO DRAGON YA VIENE" />
+<announce delay="30000" type="event" message="DEFIENDAN LA CIUDAD DEL GUERREIRO DRAGON" />
+
+
+  <areaspawn delay="50000" fromx="32573" fromy="32736" fromz="7" tox="32677" toy="32805" toz="7">
+    <monster name="panda" amount="200" />
+	<monster name="kun-fu-panda" amount="1" />
+
+  </areaspawn>
+
+
+
+</raid>

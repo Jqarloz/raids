@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+
+<announce delay="1000" type="event" message="Se acerca una gran invacion a Dybbuk City!!!" />
+<announce delay="5000" type="event" message="Parece ser una invacion fuerte." />
+<announce delay="10000" type="event" message="Para todas aquellas personas noobs del server menor a nivel 100 se les recomienda no salir." />
+<announce delay="15000" type="event" message="Y a todos aquellos que creen sentirse de poder es tiempo de medirse contra esto." />
+<announce delay="20000" type="event" message="Una gran Ola de estrañas creaturas de raza Reaver estan arrivando a la ciudad." />
+<announce delay="25000" type="event" message="GO Dybbuk CITY! GO!!." />
+
+<announce delay="40000" type="event" message="Dybbuk City esta siendo atacada! GO GO!." />
+<announce delay="45000" type="event" message="Dybbuk City esta siendo atacada! GO GO!." />
+<announce delay="50000" type="event" message="Dybbuk City esta siendo atacada! GO GO!." />
+<announce delay="55000" type="event" message="Dybbuk City esta siendo atacada! GO GO!." />
+
+  <areaspawn delay="30000" fromx="71" fromy="22" fromz="7" tox="197" toy="78" toz="7">
+    <monster name="reality reaver" amount="80" />
+  </areaspawn>
+
+
+
+</raid>

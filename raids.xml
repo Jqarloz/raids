@@ -2,9 +2,9 @@
 <raids>
 	<!-- Dybbuk -->
 	<raid name="VipThais" file="Dybbuk/vip/vipthais.xml" interval2="1500" margin="80" />
-	<raid name="Vip14" file="Dybbuk/vip/Vip14.xml" interval2="1500" margin="80" />
-	<raid name="Vip13" file="Dybbuk/vip/Vip13.xml" interval2="1500" margin="80" />
-	<raid name="Vip12" file="Dybbuk/vip/Vip12.xml" interval2="1500" margin="80" />
+	<raid name="Vip14" file="Dybbuk/vip/Vip14.xml" interval2="1500" margin="80" />  rotworms
+	<raid name="Vip13" file="Dybbuk/vip/Vip13.xml" interval2="1500" margin="80" /> minos
+	<raid name="Vip12" file="Dybbuk/vip/Vip12.xml" interval2="1500" margin="80" />demons
 	<raid name="Vip11" file="Dybbuk/vip/Vip11.xml" interval2="1500" margin="80" />
 	<raid name="Vip10" file="Dybbuk/vip/Vip10.xml" interval2="1500" margin="80" />
 	<raid name="Vip9" file="Dybbuk/vip/Vip9.xml" interval2="1500" margin="80" />
@@ -13,12 +13,13 @@
 	<raid name="Vip6" file="Dybbuk/vip/Vip6.xml" interval2="1500" margin="80" />
 	<raid name="Vip5" file="Dybbuk/vip/Vip5.xml" interval2="1500" margin="80" />
 	<raid name="Vip4" file="Dybbuk/vip/Vip4.xml" interval2="1500" margin="80" />
-	<raid name="Vip3" file="Dybbuk/vip/Vip3.xml" interval2="1500" margin="80" />
+	<raid name="Vip3" file="Dybbuk/vip/Vip3.xml" interval2="1500" margin="80" />  bonelords
 	<raid name="Vip2" file="Dybbuk/vip/Vip2.xml" interval2="1500" margin="80" />
 	<raid name="Vip1" file="Dybbuk/vip/Vip1.xml" interval2="1500" margin="80" />
 	<raid name="NatalDybbuk" file="Dybbuk/natalDybbuk.xml" interval2="1500" margin="80" />
 	<raid name="Reavers" file="Dybbuk/reavers.xml" interval2="1500" margin="80" />
 	<raid name="prueba1" file="Dybbuk/prueba1.xml" interval2="1500" margin="80" />
+	<raid name="pandaport" file="Dybbuk/pandaport.xml" interval2="1500" margin="80" />
 
 	<!-- Special -->	
 	<raid name="Demodras" file="bosses/Demodras.xml" interval2="1440" margin="120" />
